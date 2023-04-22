@@ -12,6 +12,12 @@ public class Main {
 
         Files.mismatch()
                 Reader
+
+
+                        sad
+
+
+                        asd
         try(BufferedInputStream f = new BufferedInputStream(inputStream)) {
             while ((c = f.read()) != -1){
                 switch (c){
