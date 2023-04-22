@@ -11,13 +11,7 @@ public class Main {
         boolean marked = false;
 
         Files.mismatch()
-                Reader
-
-
-                        sad
-
-
-                        asd
+                Reader    
         try(BufferedInputStream f = new BufferedInputStream(inputStream)) {
             while ((c = f.read()) != -1){
                 switch (c){
