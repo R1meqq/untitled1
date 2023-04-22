@@ -11,10 +11,7 @@ public class Main {
         boolean marked = false;
 
         Files.mismatch()
-                Reader
-                        sd
-                        sd
-                                
+                Reader    
         try(BufferedInputStream f = new BufferedInputStream(inputStream)) {
             while ((c = f.read()) != -1){
                 switch (c){
